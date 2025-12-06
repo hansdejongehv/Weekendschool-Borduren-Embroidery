@@ -1,0 +1,6 @@
+File	Vilt		Garen
+AA	Geel		Groen
+U	Hazelnoot	Groen
+P	Groen		Groen	
+O	Zwart		Goud
+K	Groen		Goud
